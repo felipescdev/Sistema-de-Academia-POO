@@ -11,7 +11,7 @@ Tema escolhido: nº 09 – Sistema de Academia e Fichas de Treino.
 
 Autores 
 Felipe Sousa Costa – RA: 1630482523030 
-Guilherme Karan de Almeida – RA: 
+Guilherme Karan de Almeida – RA: 1630482523018
 
 Funcionalidades
 
